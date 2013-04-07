@@ -1,4 +1,4 @@
-de:
+"de-CH":
   active_admin:
     dashboard: Übersicht
     dashboard_welcome:
@@ -26,7 +26,7 @@ de:
     clear_filters: "Filter entfernen"
     search_field: "Durchsuche %{field}"
     equal_to: "Gleich"
-    greater_than: "Größer als"
+    greater_than: "Grösser als"
     less_than: "Kleiner als"
     main_content: "Bitte implementieren Sie %{model}#main_content, um Inhalte anzuzeigen."
     logout: "Abmelden"
@@ -86,8 +86,8 @@ de:
         id: ID
         email: E-Mail
         encrypted_Password: Verschlüsseltes Passwort
-        reset_password_token: Passwort Reset Token
-        reset_password_sent_at: Passwort Reset Anweisungen gesendet am
+        reset_password_token: Passwort-Reset-Token
+        reset_password_sent_at: Passwort-Reset-Anweisungen gesendet am
         remember_created_at: Passwort merken seit
         sign_in_count: Anzahl Logins
         current_sign_in_at: Aktuell angemeldet seit
