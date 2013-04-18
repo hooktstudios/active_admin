@@ -1,11 +1,11 @@
 /* Active Admin CSS */
 // Reset Away!
-body.active_admin {
+body {
   @include global-reset;
 }
 
 // Partials
-body.active_admin {
+body {
     @import "active_admin/typography";
     @import "active_admin/header";
     @import "active_admin/forms";
@@ -34,7 +34,7 @@ body.active_admin {
     @import "active_admin/structure/title_bar";
 }
 
-body.active_admin {
+body {
   @include sans-family;
   line-height: 150%;
   font-size: 72%;
